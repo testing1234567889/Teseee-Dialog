@@ -1,9 +1,5 @@
-{
-  "version": 1,
-  "keys": [
-    "ABCD-1234-XXXX",
-    { "key": "vip", "id": "20fc7d075f5f4627" },
-    { "key": "ZXCV-9999-PAID", "id": "a1b2c3d4e5f6abcd" },
-    { "key": "QWER-0000-TEST", "ids": ["iduser1", "iduser2", "iduser3"] }
-  ]
-}
+[
+  { "key": "ABCD-1234-XXXX", "id": "*" },
+  { "key": "vip", "id": "20fc7d075f5f4627" },
+  { "key": "ZXCV-9999-PAID", "id": "a1b2c3d4e5f6abcd" }
+]
